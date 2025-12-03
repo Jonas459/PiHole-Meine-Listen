@@ -331,30 +331,34 @@ clickerkids.fun
 nzp.gay
 gd.games
 
-# --- Spotify Podcast Block ---
+# --- Podcasts ---
 audio-fa.scdn.co
 audio-ec.scdn.co
 podz-content.spotifycdn.com
 podz.spotifycdn.com
 feed.podcasts.spotify.com
 
-# --- Spotify Video Block ---
+# --- Videos ---
 video-fa.scdn.co
 video-ec.scdn.co
 video-fa.spotifycdn.com
 video-ec.spotifycdn.com
 video-cdn.spotify.com
+video-akpcw.spotifycdn.com
 
-# --- Canvas Block ---
+# --- Canvas (Video-Loops im Hintergrund) ---
 canvas.spotifycdn.com
 canvas-ec.spotifycdn.com
 canvas-fa.spotifycdn.com
 i.scdn.co
 
-# --- Podcast/Video Metadata ---
+# --- Untertitel / Zusatzmedien ---
+subtitles.spotifycdn.com
+
+# --- Podcast / Video Metadaten ---
 spclient.wg.spotify.com
 
-# --- Spotify Analytics / Tracking ---
+# --- Analytics / Tracking ---
 log.spotify.com
 analytics.spotify.com
 collector.spotify.com
@@ -362,14 +366,12 @@ crashdump.spotify.com
 metrics.spotify.com
 events.spotify.com
 spclient-data.spotify.com
-
-# --- Third-party tracking used by Spotify ---
 insights.hotjar.com
 in.hotjar.com
 api-js.mixpanel.com
 api.mixpanel.com
 
-# --- Spotify Werbung (Free) ---
+# --- Werbung (Free-Account) ---
 audio-ad.scdn.co
 audio-ad-ec.spotify.com
 audio-ad-fa.spotify.com
